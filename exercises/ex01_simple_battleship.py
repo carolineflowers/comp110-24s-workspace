@@ -1,6 +1,6 @@
-"""EX01 - Simple Battleship - A cute step toward Battleship"""
+"""EX01 - Simple Battleship - A cute step toward Battleship."""
 
-__author__ = 730431261
+__author__ = "730431261"
 
 guess_player1: int = int(input("Pick a secret boat location between 1 and 4:"))
 guess_integer_0: int = int(guess_player1)
