@@ -1,0 +1,6 @@
+"""Practice writing for loops."""
+
+pets: list[str] = ["Louie", "Bo", "Bear"]
+for animal in pets: 
+    print(f"Good boy, {animal}!")
+    #could have also written as "Good boy + animal + !"
